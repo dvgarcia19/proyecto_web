@@ -1,2 +1,2 @@
-# proyecto_web
+# proyecto_diploweb
 proyecto web
